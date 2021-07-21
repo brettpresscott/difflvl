@@ -1,0 +1,65 @@
+.difflvlv1logo {
+height: 500px;
+width: 1000px;
+}
+
+body {background-color: black;}
+
+#top {background-color: white;
+border-color: white;
+height: 5px;}
+
+.topContainer {
+background-color: black;
+font-size: 20px;
+color: white;
+text-align: center;
+padding: 0px
+}
+
+#pages {text-indent: 50px;
+word-spacing: 50px}
+
+a:link {color: White; text-decoration: none; }
+a:active {color: White; text-decoration: none; }
+a:visited {color: White; text-decoration: none; }
+a:hover {color: Purple; text-decoration: underline; }
+
+.middleContainer {
+  background-color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 1px;
+  }
+
+  #middle {background-color: black;
+  border-color: black;
+  height: 5px;}
+
+.bottomContainer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.socialLogo {height: 100px;
+              width: 100px;
+            background-color: black;}
+
+.socialsMiddleContainer {
+  text-align: center;
+  color: White;
+}
+
+.privacyMiddleContainer {
+  text-align: center;
+color: white;
+}
+
+.privacyBottomContainer {
+  text-align: center;
+  color: black;
+  background-color: White;
+  padding: 2px;
+  
+}
